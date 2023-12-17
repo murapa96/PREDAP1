@@ -1,0 +1,87 @@
+?TRACE: j = 0, coin = 1
+!TRACE: INFINITO, SIN SOLUCION
+?TRACE: j = 0, coin = 6
+!TRACE: j < coin.getValue()
+?TRACE: j = 0, coin = 10
+!TRACE: j < coin.getValue()
+?TRACE: j = 1, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 1, coin = 6
+!TRACE: j < coin.getValue()
+?TRACE: j = 1, coin = 10
+!TRACE: j < coin.getValue()
+?TRACE: j = 2, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 2, coin = 6
+!TRACE: j < coin.getValue()
+?TRACE: j = 2, coin = 10
+!TRACE: j < coin.getValue()
+?TRACE: j = 3, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 3, coin = 6
+!TRACE: j < coin.getValue()
+?TRACE: j = 3, coin = 10
+!TRACE: j < coin.getValue()
+?TRACE: j = 4, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 4, coin = 6
+!TRACE: j < coin.getValue()
+?TRACE: j = 4, coin = 10
+!TRACE: j < coin.getValue()
+?TRACE: j = 5, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 5, coin = 6
+!TRACE: j < coin.getValue()
+?TRACE: j = 5, coin = 10
+!TRACE: j < coin.getValue()
+?TRACE: j = 6, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 6, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 6, coin = 10
+!TRACE: j < coin.getValue()
+?TRACE: j = 7, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 7, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 7, coin = 10
+!TRACE: j < coin.getValue()
+?TRACE: j = 8, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 8, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 8, coin = 10
+!TRACE: j < coin.getValue()
+?TRACE: j = 9, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 9, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 9, coin = 10
+!TRACE: j < coin.getValue()
+?TRACE: j = 10, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 10, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 10, coin = 10
+!TRACE: j >= coin.getValue()
+?TRACE: j = 11, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 11, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 11, coin = 10
+!TRACE: j >= coin.getValue()
+?TRACE: j = 12, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 12, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 12, coin = 10
+!TRACE: j >= coin.getValue()
+?TRACE: OBTENIENDO CAMBIO DE LA TABLA 
+?TRACE: j = 12, i = 2
+!TRACE: i > 1 && changeTable[i][j] == changeTable[i - 1][j]
+?TRACE: j = 12, i = 1
+!TRACE: i <= 1 || changeTable[i][j] != changeTable[i - 1][j]
+?TRACE: j = 6, i = 1
+!TRACE: i <= 1 || changeTable[i][j] != changeTable[i - 1][j]
+2
+6 6 

@@ -1,0 +1,157 @@
+?TRACE: j = 1, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 1, coin = 6
+!TRACE: j < coin.getValue()
+?TRACE: j = 1, coin = 10
+!TRACE: j < coin.getValue()
+?TRACE: j = 2, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 2, coin = 6
+!TRACE: j < coin.getValue()
+?TRACE: j = 2, coin = 10
+!TRACE: j < coin.getValue()
+?TRACE: j = 3, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 3, coin = 6
+!TRACE: j < coin.getValue()
+?TRACE: j = 3, coin = 10
+!TRACE: j < coin.getValue()
+?TRACE: j = 4, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 4, coin = 6
+!TRACE: j < coin.getValue()
+?TRACE: j = 4, coin = 10
+!TRACE: j < coin.getValue()
+?TRACE: j = 5, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 5, coin = 6
+!TRACE: j < coin.getValue()
+?TRACE: j = 5, coin = 10
+!TRACE: j < coin.getValue()
+?TRACE: j = 6, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 6, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 6, coin = 10
+!TRACE: j < coin.getValue()
+?TRACE: j = 7, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 7, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 7, coin = 10
+!TRACE: j < coin.getValue()
+?TRACE: j = 8, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 8, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 8, coin = 10
+!TRACE: j < coin.getValue()
+?TRACE: j = 9, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 9, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 9, coin = 10
+!TRACE: j < coin.getValue()
+?TRACE: j = 10, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 10, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 10, coin = 10
+!TRACE: j >= coin.getValue()
+?TRACE: j = 11, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 11, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 11, coin = 10
+!TRACE: j >= coin.getValue()
+?TRACE: j = 12, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 12, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 12, coin = 10
+!TRACE: j >= coin.getValue()
+?TRACE: j = 13, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 13, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 13, coin = 10
+!TRACE: j >= coin.getValue()
+?TRACE: j = 14, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 14, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 14, coin = 10
+!TRACE: j >= coin.getValue()
+?TRACE: j = 15, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 15, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 15, coin = 10
+!TRACE: j >= coin.getValue()
+?TRACE: j = 16, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 16, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 16, coin = 10
+!TRACE: j >= coin.getValue()
+?TRACE: j = 17, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 17, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 17, coin = 10
+!TRACE: j >= coin.getValue()
+?TRACE: j = 18, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 18, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 18, coin = 10
+!TRACE: j >= coin.getValue()
+?TRACE: j = 19, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 19, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 19, coin = 10
+!TRACE: j >= coin.getValue()
+?TRACE: j = 20, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 20, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 20, coin = 10
+!TRACE: j >= coin.getValue()
+?TRACE: j = 21, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 21, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 21, coin = 10
+!TRACE: j >= coin.getValue()
+?TRACE: j = 22, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 22, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 22, coin = 10
+!TRACE: j >= coin.getValue()
+?TRACE: j = 23, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 23, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 23, coin = 10
+!TRACE: j >= coin.getValue()
+?TRACE: j = 24, coin = 1
+!TRACE:  i = 0 && coin.getValue() <= j
+?TRACE: j = 24, coin = 6
+!TRACE: j >= coin.getValue()
+?TRACE: j = 24, coin = 10
+!TRACE: j >= coin.getValue()
+?TRACE: OBTENIENDO CAMBIO DE LA TABLA 
+?TRACE: j = 24, i = 2
+!TRACE: i > 1 && changeTable[i][j] == changeTable[i - 1][j]
+?TRACE: j = 24, i = 1
+!TRACE: i <= 1 || changeTable[i][j] != changeTable[i - 1][j]
+?TRACE: j = 18, i = 1
+!TRACE: i <= 1 || changeTable[i][j] != changeTable[i - 1][j]
+?TRACE: j = 12, i = 1
+!TRACE: i <= 1 || changeTable[i][j] != changeTable[i - 1][j]
+?TRACE: j = 6, i = 1
+!TRACE: i <= 1 || changeTable[i][j] != changeTable[i - 1][j]
+4
+6 6 6 6 
